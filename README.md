@@ -1,4 +1,4 @@
-The given code analyzes the performance of IPL cricketers to create an ideal T20 team. The code imports libraries, reads data from CSV files, and preprocesses it. The players are classified into four categories: batters, all-rounders, bowlers, and wicket-keepers. The top performers in each category are identified based on their respective performance metrics.
+this project analyzes the performance of IPL cricketers to create an ideal T20 team. The code imports libraries, reads data from CSV files, and preprocesses it. The players are classified into four categories: batters, all-rounders, bowlers, and wicket-keepers. The top performers in each category are identified based on their respective performance metrics.
 
 The final eleven includes:
 
